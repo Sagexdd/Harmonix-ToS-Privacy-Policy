@@ -25,4 +25,4 @@ By using the Bot, you agree to the following terms:
 - We are not liable for any damages or losses caused by the use of this Bot.
 
 ## 5. Contact
-If you have any questions or concerns, feel free to open an issue in this repository or contact the bot owner via Discord Server.
+If you have any questions or concerns, feel free to open an issue in this repository or contact the bot owner via Discord [Support Server](https://discord.gg/hjSV93j93j).
