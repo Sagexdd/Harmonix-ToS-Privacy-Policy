@@ -1,6 +1,6 @@
 # Privacy Policy
 
-![Bot Logo](./<your-image-file-name>.png)
+![Bot Logo](https://cdn.discordapp.com/attachments/1353311244483821633/1377711600416587957/IMG_20250529_234320.png?ex=6839f56a&is=6838a3ea&hm=3393507687ab1ed725c9da6e3e79e0e4e316f6b79fac35abb7d000432fb50286&)
 
 Last updated: May 29, 2025
 
