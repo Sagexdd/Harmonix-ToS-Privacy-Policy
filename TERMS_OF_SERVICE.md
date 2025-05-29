@@ -4,7 +4,7 @@
 
 Last updated: May 29, 2025
 
-Welcome to the official Terms of Service for our Discord bot ("Harmonix").
+Welcome to the official Terms of Service for our Discord bot ("[Harmonix](https://discord.com/oauth2/authorize?client_id=1356181162099347517)").
 
 By using the Bot, you agree to the following terms:
 
