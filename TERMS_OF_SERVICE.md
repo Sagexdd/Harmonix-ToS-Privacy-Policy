@@ -1,6 +1,6 @@
 # Terms of Service
 
-![Bot Logo](./<your-image-file-name>.png)
+![Bot Logo](./Terms of service.png)
 
 Last updated: May 29, 2025
 
