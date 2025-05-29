@@ -1,6 +1,6 @@
 # Terms of Service
 
-![Bot Logo](./Terms of service.png)
+![Bot Logo](https://cdn.discordapp.com/attachments/1353311244483821633/1377711568850128938/IMG_20250529_234256.png?ex=6839f562&is=6838a3e2&hm=ec96dff0d54a6c024e8bcce20d84121c4df8b8ce5a9bd8525d782e83b32f3537&)
 
 Last updated: May 29, 2025
 
