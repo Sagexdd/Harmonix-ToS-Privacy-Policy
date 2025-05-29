@@ -4,7 +4,7 @@
 
 Last updated: May 29, 2025
 
-This Privacy Policy outlines how we collect and use data from users interacting with our Discord bot ("[Harmonix](https://discord.com/oauth2/authorize?client_id=1356181162099347517)".
+This Privacy Policy outlines how we collect and use data from users interacting with our Discord bot ("[Harmonix](https://discord.com/oauth2/authorize?client_id=1356181162099347517)").
 
 ## 1. What We Collect
 - **Server IDs** – to store configuration settings for each server.
